@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("./121482.jpg");
+}
+
+.App {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.Input {
+    height: 300px;
+    width: 300px;
+
+}
+
+.Particles {
+    position: fixed;
+    right: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+}

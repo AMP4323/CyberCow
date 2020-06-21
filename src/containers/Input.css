@@ -1,0 +1,48 @@
+.Parent {
+    display: flex;
+    justify-content: space-between;
+}
+.Input {
+    position: absolute;
+    left: 150px;
+    top: 250px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    font-family: inherit;
+}
+.InputControls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.InputControls a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.Message {
+    position: absolute;
+    right: 150px;
+    margin: 10px 50px;
+    text-align: center;
+    font-size: xx-large;
+    justify-content: center;
+}
+
+.Background {
+    display: flex;
+    justify-content: center;
+}
+
+.Details {
+    position: absolute;
+    top: 100px;
+    right: 150px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: 100px 100px;
+}

@@ -1,0 +1,10 @@
+.Textbox {
+    border:2px solid rgba(58,177,224,1);
+    background-color: #ffdca6;
+    padding: 10px;
+    margin: 100px 50px 20px 50px;
+    resize: none;
+    border-radius: 15px;
+    font-family: inherit;
+    font-size: large;
+}

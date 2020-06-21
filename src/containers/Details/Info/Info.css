@@ -1,0 +1,15 @@
+.Info {
+    width: 100%;
+    margin: 10px 50px;
+    text-align: center;
+    font-size: xx-large;
+    justify-content: center;
+    color: white;
+}
+
+.Background {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    border-radius: 20px;
+}

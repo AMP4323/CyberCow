@@ -1,0 +1,24 @@
+.Message {
+    width: 100%;
+    margin: 10px 50px;
+    text-align: center;
+    font-size: xx-large;
+    justify-content: center;
+    /*color: #564f4f;*/
+    color: white;
+}
+
+.Background {
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    background: #FFA242;
+    border-radius: 20px;
+}
+.hidden {
+    opacity: 0;
+    background-color: transparent;
+}
+.visible {
+    opacity: 1;
+}

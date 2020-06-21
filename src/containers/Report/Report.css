@@ -1,0 +1,18 @@
+.Report {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    margin: 0px 5px;
+}
+.ReportDiv {
+    display: flex;
+    flex-flow: column;
+}
+.ReportControls {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+.ReportControl {
+    margin: 5px 20px;
+}
